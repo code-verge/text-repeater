@@ -1,8 +1,8 @@
-# 🔄 **Text Repeater: Your Copy-Paste Companion for Easy Repetition**
+# 🔄 Text Repeater: Your Copy-Paste Companion for Easy Repetition
 
 Tired of the monotony of duplicating text manually? Meet Text Repeater, the tool that transforms text duplication into a breeze, helping you save time and energy.
 
-🚀 **Key Features**
+## 🚀 Key Features
 
 ✅ **Effortless Duplication:** Text Repeater simplifies text repetition. Enter your text, specify how many times you want it repeated, and watch as it generates your duplicated text in an instant.
 
@@ -26,7 +26,7 @@ Tired of the monotony of duplicating text manually? Meet Text Repeater, the tool
 
 5. Copy and use the generated repeated text for your projects and tasks.
 
-🌟 **Why Choose Text Repeater? Because Time Matters!**
+## 🌟 Why Choose Text Repeater? Because Time Matters!
 
 Text Repeater is your partner in efficiency. Whether you're a writer, student, or professional, our tool simplifies text duplication, helping you achieve more in less time. Plus, it's user-friendly and completely free!
 
