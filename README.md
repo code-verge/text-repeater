@@ -14,7 +14,7 @@ Tired of the monotony of duplicating text manually? Meet Text Repeater, the tool
 
 ✅ **Privacy Assurance:** Your text is your business. Text Repeater respects your privacy and does not store or share your input text with anyone.
 
-💡 **How to Use Text Repeater**
+## 💡 How to Use Text Repeater
 
 1. Visit https://text-repeater.com.
 
